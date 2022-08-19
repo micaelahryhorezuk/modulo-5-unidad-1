@@ -1,0 +1,5 @@
+Armar la base de datos y tabla que aparece en el archivo Ejercicio - base de datos.doc
+
+En la opción de material complementario tenemos una breve explicación de la aplicación WAMP con una guía que nos va a ayudar a la hora de poder instalarlo y resolver el ejercicio.
+
+Adjuntar archivo .sql con la base de datos y tabla creada.
